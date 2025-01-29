@@ -3,8 +3,6 @@
   ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/cryptex)
   ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/cryptex?style=social)
   ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/cryptex?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/ux3o7jDhvOc?style=social)](https://youtu.be/ux3o7jDhvOc)
 
   <br />
   <br />
@@ -13,7 +11,7 @@
 
   Cryptex is a fully responsive cryptocurrency website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/cryptex/"><strong>➥ Live Demo</strong></a>
+
 
 </div>
 
@@ -32,22 +30,6 @@ Before you begin, ensure you have met the following requirements:
 ### Run Locally
 
 To run **Cryptex** locally, run this command on your git bash:
-
-Linux and macOS:
-
-```bash
-sudo git clone https://github.com/codewithsadee/cryptex.git
-```
-
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/cryptex.git
-```
-
-### Contact
-
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
 
 ### License
 
